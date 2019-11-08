@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<filmes>
+    <filme>
+        <titulo>After Dark in Central Park</titulo>
+        <ano>1900</ano>
+    </filme>
+    <filme>
+        <titulo>Boarding School Girls' Pajama Parade</titulo>
+        <ano>1900</ano>
+    </filme>
+    <filme>
+        <titulo>Buffalo Bill's Wild West Parad</titulo>
+        <ano>1900</ano>
+    </filme>
+    <filme>
+        <titulo>Caught</titulo>
+        <ano>1900</ano>
+    </filme>
+    <filme>
+        <titulo>Clowns Spinning Hats</titulo>
+        <ano>1900</ano>
+    </filme>
+    <filme>
+        <titulo>Capture of Boer Battery by British</titulo>
+        <ano>1900</ano>
+        <generos>
+            <genero>Short</genero>
+            <genero>Documentary</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>The Enchanted Drawing</titulo>
+        <ano>1900</ano>
+    </filme>
+    <filme>
+        <titulo>Feeding Sea Lions</titulo>
+        <ano>1900</ano>
+        <atores>
+            <ator>Paul Boyton</ator>
+        </atores>
+    </filme>
+    <filme>
+        <titulo>The Woman on the Jury</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>Sylvia Breamer</ator>
+            <ator>Frank Mayo</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>A Woman Who Sinned</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>Morgan Wallace</ator>
+            <ator>Irene Rich</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Women First</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>William Fairbanks</ator>
+            <ator>Eva Novak</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Women Who Give</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>Barbara Bedford</ator>
+            <ator>Frank Keenan</ator>
+            <ator>Renée Adorée</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Worldly Goods</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>Agnes Ayres</ator>
+            <ator>Pat O'Malley</ator>
+            <ator>Victor Varconi</ator>
+        </atores>
+        <generos>
+            <genero>Comedy</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>The Yankee Consul</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>Douglas MacLean</ator>
+            <ator>Patsy Ruth Miller</ator>
+        </atores>
+        <generos>
+            <genero>Comedy</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Yankee Madness</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>George Larkin</ator>
+            <ator>Billie Dove</ator>
+        </atores>
+        <generos>
+            <genero>Adventure</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Yolanda</titulo>
+        <ano>1924</ano>
+        <atores>
+            <ator>Marion Davies</ator>
+            <ator>Lyn Harding</ator>
+        </atores>
+        <generos>
+            <genero>Historical</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Quality Street</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Marion Davies</ator>
+            <ator>Conrad Nagel</ator>
+        </atores>
+    </filme>
+    <filme>
+        <titulo>Red Clay</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>William Desmond</ator>
+            <ator>Marceline Day</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>The Red Mill</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Marion Davies</ator>
+            <ator>Owen Moore</ator>
+        </atores>
+        <generos>
+            <genero>Comedy</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Resurrection</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Dolores del Rio</ator>
+            <ator>Rod La Rocque</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>The Road to Romance</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Ramon Novarro</ator>
+            <ator>Marceline Day</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Rookies</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Karl Dane</ator>
+            <ator>George K. Arthur</ator>
+            <ator>Marceline Day</ator>
+        </atores>
+        <generos>
+            <genero>Comedy</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>The Rough Riders</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Noah Beery</ator>
+            <ator>Charles Farrell</ator>
+            <ator>George Bancroft</ator>
+        </atores>
+        <generos>
+            <genero>Adventure</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>A Sailor's Sweetheart</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Louise Fazenda</ator>
+            <ator>Clyde Cook</ator>
+            <ator>Myrna Loy</ator>
+        </atores>
+        <generos>
+            <genero>Comedy</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Salvation Jane</titulo>
+        <ano>1927</ano>
+        <atores>
+            <ator>Viola Dana</ator>
+            <ator>J. Parks Jones</ator>
+        </atores>
+    </filme>
+    <filme>
+        <titulo>The Drifter</titulo>
+        <ano>1932</ano>
+        <atores>
+            <ator>William Farnum</ator>
+            <ator>Noah Beery</ator>
+            <ator>Phyllis Barrington</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Drifting Souls</titulo>
+        <ano>1932</ano>
+        <atores>
+            <ator>Lois Wilson</ator>
+            <ator>Theodore von Eltz</ator>
+        </atores>
+        <generos>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Emma</titulo>
+        <ano>1932</ano>
+        <atores>
+            <ator>Marie Dressler</ator>
+            <ator>Richard Cromwell</ator>
+            <ator>Jean Hersholt</ator>
+        </atores>
+        <generos>
+            <genero>Comedy</genero>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>End of the Trail</titulo>
+        <ano>1932</ano>
+        <atores>
+            <ator>Tim McCoy</ator>
+            <ator>Luana Walters</ator>
+            <ator>Wheeler Oakman</ator>
+        </atores>
+        <generos>
+            <genero>Western</genero>
+            <genero>Drama</genero>
+        </generos>
+    </filme>
+    <filme>
+        <titulo>Escapade</titulo>
+        <ano>1932</ano>
+        <atores>
+            <ator>Jameson Thomas</ator>
+            <ator>Sally Blane</ator>
+        </atores>
+        <generos>
+            <genero>Crime</genero>
+        </generos>
+    </filme>
+</filmes>
